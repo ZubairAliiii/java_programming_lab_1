@@ -28,6 +28,8 @@ char b='b';
 System.out.println(a);
 System.out.println(b);
 
+System.out.println("These are boolean variables");
+	System.out.println("false and true");
 
 
 }
