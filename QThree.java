@@ -40,6 +40,12 @@ System.out.println("");
 System.out.println("These are logical operators");
 						
 System.out.println("&& , ||");
+	
+	
+	System.out.println(" There is five operators in (Arthmetic operators)");
+
+System.out.println("+ , -  , * , / ,%");
+
 
 }
 }
