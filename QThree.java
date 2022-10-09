@@ -19,6 +19,28 @@ System.out.println("The Multiplication of two numbers is "+ (x*y));
 System.out.println("The Division of two numbers is "+ (x/y));
 
 System.out.println("The Rmainder of two numbers is "+ (x%y));
+  
+  System.out.println("These are Arthmetic assignment operators");
+						
+System.out.println("+= , -= , *= , /= ,%=");
+System.out.println("");
+				
+System.out.println(" These are conditional operators:");
+					
+System.out.println("< , > , =  ");
+				
+System.out.println("");
+					
+System.out.println("These are comprison operators ");
+					
+System.out.println("<= , >= ,==, !=");
+						
+System.out.println("");
+						
+System.out.println("These are logical operators");
+						
+System.out.println("&& , ||");
+
 }
 }
 
